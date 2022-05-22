@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ![KimTimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTimo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimTimo&layout=compact&theme=radical&langs_count=8)
 
-<!--[![JS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/KimTimo/kimtimo/blob/main/README.md) [![JS](https://img.shields.io/badge/Spring-6DB33?style=flat-square&logo=Spring&logoColor=white)](https://github.com/KimTimo/kimtimo/blob/main/README.md) 
-[![JS](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/KimTimo/KimTimo/blob/main/README.md) [![JS](https://img.shields.io/badge/CSS-007396?style=flat-square&logo=Css3&logoColor=white)](https://github.com/KimTimo/KimTimo/blob/main/README.md) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/KimTimo/KimTimo/blob/main/README.md)
-[![JS](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white)](https://github.com/KimTimo/KimTimo/blob/main/README.md)-->
+
 
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eoguszan)](https://solved.ac/eoguszan) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
