@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 
+<img src="https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=Postman&logoColor=white">
+
 
 
 <!--![KimTimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTimo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimTimo&layout=compact&theme=radical&langs_count=8)-->
